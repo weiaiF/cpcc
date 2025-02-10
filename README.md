@@ -4,7 +4,7 @@ Code for "Consistency Policy with Categorical Critic for Autonomous Driving", AA
 
 # Introduction
 
-<img src="./figures/method_framework.png" alt="framework" width="50%" />
+<img src="./figures/method_framework.png" alt="framework" width="80%" />
 
 # Quick Start
 
