@@ -3,7 +3,8 @@
 Code for "Consistency Policy with Categorical Critic for Autonomous Driving", AAMAS 2025 paper.
 
 # Introduction
-![framework](figures/method_framework.png)
+
+<img src="./figures/method_framework.png" alt="framework" width="50%" />
 
 # Quick Start
 
