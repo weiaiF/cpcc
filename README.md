@@ -4,6 +4,8 @@ Code for "Consistency Policy with Categorical Critic for Autonomous Driving", AA
 
 # Introduction
 
+We introduce Consistency Policy with Categorical Critic (CPCC), which leverages recent advancements in diffusion models, particularly consistency models, to serve as the actor, enabling the representation of multimodal action distributions. Additionally, we utilize classification loss (cross-entropy loss) for training the categorical critic, which mitigates overfitting to noisy targets and yields more accurate Q-value approximations.
+
 <img src="./figures/method_framework.png" alt="framework" width="80%" />
 
 # Quick Start
