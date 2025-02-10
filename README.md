@@ -26,3 +26,7 @@ pip install -r requirements.txt
 ```bash
 sh train_cpcc.sh
 ```
+
+# Acknowledgement
+CPCC is greatly inspired by the following outstanding contributions to the open-source community:
+[CPQL](https://github.com/cccedric/cpql), [MetaDrive](https://github.com/metadriverse/metadrive)
